@@ -1,0 +1,23 @@
+'use strict';
+
+var indexCli = require('./index-cli-CfRcMjGK.js');
+require('./logger-kbUbohEP.js');
+require('fs-extra');
+require('path');
+require('ts-morph');
+require('@compodoc/live-server');
+require('lodash');
+require('typescript');
+require('semver');
+require('i18next');
+require('json5');
+require('html-entities');
+require('cheerio');
+require('uuid');
+require('cosmiconfig');
+
+
+
+exports.Application = indexCli.Application;
+exports.CliApplication = indexCli.CliApplication;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VzIjpbXSwic291cmNlc0NvbnRlbnQiOltdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7In0=
